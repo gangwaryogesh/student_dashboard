@@ -46,7 +46,7 @@ _You can add screenshots here by dragging your dashboard screenshots into this s
 
  1. Clone the Repo
 
-```bash
+
 git clone https://github.com/YOUR-USERNAME/student-dashboard.git
 cd student-dashboard
 
