@@ -36,11 +36,6 @@ Educational institutions need early warnings to identify students at risk of **f
 
 ---
 
-##  Screenshots
-
-_You can add screenshots here by dragging your dashboard screenshots into this section._
-
----
 
 ##  Getting Started  ##
 
