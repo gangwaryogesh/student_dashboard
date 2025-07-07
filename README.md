@@ -78,10 +78,16 @@ Homepage
 
 
 
+
+
+
 Student Data
 
 
 ![2](https://github.com/user-attachments/assets/a74c0aa5-587a-4f2a-ac32-6464944126ca)
+
+
+
 
 
 Correlation Map
@@ -89,9 +95,17 @@ Correlation Map
 ![3](https://github.com/user-attachments/assets/cd9b9269-3230-4b42-b436-0a21fef61c61)
 
 
+
+
+
+
 Filter for Students
 
 ![4](https://github.com/user-attachments/assets/68f46ac6-4fca-4e2c-88a2-1e1f51d529e2)
+
+
+
+
 
 
 Status of Students
@@ -99,14 +113,24 @@ Status of Students
 ![6](https://github.com/user-attachments/assets/f5b8c2e3-6640-4d8e-bf83-d12e40569880)
 
 
+
+
+
 Average of Students(AT Top)
 
 ![7](https://github.com/user-attachments/assets/844c216c-c1be-48c1-b010-980324e0a78c)
 
 
+
+
+
+
 Add Students
 
 ![8](https://github.com/user-attachments/assets/165eea2d-c6c1-4fb6-afe9-57414f06c85c)
+
+
+
 
 
 New Page to add Students
