@@ -42,7 +42,7 @@ _You can add screenshots here by dragging your dashboard screenshots into this s
 
 ---
 
-##  Getting Started
+##  Getting Started  ##
 
  1. Clone the Repo
 
